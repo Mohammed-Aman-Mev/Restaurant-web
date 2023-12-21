@@ -105,3 +105,27 @@ export const testimonialconst = [
     com: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Consequatur voluptatibus molestiae quo.",
   },
 ];
+
+export const news = [
+  {
+    name: "jhon elia",
+    comments:
+      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta modi odio at nobis perspiciatisnecessitatibus Lorem ipsum dolor sit, amet consectetur sit amet consectetur adipisicing elit. Soluta modi odio at nobis perspiciatisnecessitatibus Lorem ipsum  sit amet consectetur adipisicing elit. Soluta modi odio at nobis perspiciatisnecessitatibus Lorem ",
+    category: "category",
+    img: "url(https://media.istockphoto.com/id/871196052/photo/hand-flip-wooden-cube-with-word-change-to-chance-personal-development-and-career-growth-or.jpg?s=612x612&w=0&k=20&c=E7H-zELVeKrZu0vMSw3zq7gNRUE5Lf0_FCYfJTYShAI=)",
+  },
+  {
+    name: "jhon elia",
+    comments:
+      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta modi odio at nobis perspiciatisnecessitatibus Lorem ipsum dolor sit, amet consectetur",
+    category: "category",
+    img: "url(https://media.istockphoto.com/id/1201255627/vector/colorful-numbers-pattern.jpg?s=612x612&w=0&k=20&c=KtQHZsN4Z9RoEAsJYFPO42wKppJlWvvce3m38Dblu-Y=)",
+  },
+  {
+    name: "jhon elia",
+    comments:
+      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta modi odio at nobis perspiciatisnecessitatibus Lorem ipsum dolor sit, amet consectetur",
+    category: "category",
+    img: "url(https://media.istockphoto.com/id/1492199883/photo/the-ace-of-hearts-closeup-playing-cards-image-backgroun.jpg?s=612x612&w=0&k=20&c=dmAkRSM-Jqe-vlR-UIblecPCEO8zpkDTiqkLkdp1GQQ=)",
+  },
+];
