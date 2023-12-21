@@ -35,7 +35,7 @@ const Navbar = ({ handleToggle, toggle }) => {
           </NavLink>
         </ul>
       </div>
-      <div className="w-[30px] md:hidden" onClick={handleToggle}>
+      <div className="w-[30px] md:hidden" onClick={() => handleToggle()}>
         <IoReorderThreeOutline size={"25px"} />
       </div>
     </nav>

@@ -4,7 +4,7 @@ const NewsCard = ({ data }) => {
   return (
     <div className="w-[90%] sm:w-[350px] h-auto md:w-[300px] bg-white mt-[20px] mx-auto">
       <div
-        className="w-[100%] h- sm:h-[200px] bg-no-repeat bg-center bg-cover"
+        className="w-[100%] h-[200px] sm:h-[240px] bg-no-repeat bg-center bg-cover"
         style={{
           backgroundImage: data.img,
         }}

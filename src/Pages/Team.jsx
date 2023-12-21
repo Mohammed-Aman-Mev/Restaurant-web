@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Team = () => {
   return (
     <div>
-      team
+      <h1 className="text-5xl pt-7 text-center">Team page</h1>
     </div>
-  )
-}
+  );
+};
 
-export default Team
+export default Team;

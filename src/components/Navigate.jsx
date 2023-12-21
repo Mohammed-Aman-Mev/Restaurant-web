@@ -9,7 +9,7 @@ const Navigate = ({ handleToggle, toggle }) => {
     <div
       className={
         toggle
-          ? "w-full h-[100vh] bg-gray-400 flex items-center justify-center p-4 md:hidden"
+          ? "w-full h-[100vh] sticky top-[70px] bg-gray-400 flex items-center justify-center p-4 md:hidden"
           : "hidden"
       }
     >
