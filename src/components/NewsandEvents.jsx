@@ -4,7 +4,7 @@ import { news } from "./constent";
 
 const NewsandEvents = () => {
   return (
-    <div className="bg-gray-100 w-[100vw] py-[120px] flex items-center justify-center">
+    <div className="bg-gray-100 w-[100%] py-[120px] flex items-center justify-center">
       <div className="sm:w-[80%]">
         <div className="flex-col justify-between">
           <h3 className="text-center text-[14px] font-bold text-gray-400 mt-5">

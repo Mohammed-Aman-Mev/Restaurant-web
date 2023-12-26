@@ -2,7 +2,7 @@ import React from "react";
 
 const Fresh = () => {
   return (
-    <div className="bg-gray-100 p-[20px] w-[100vw] h-[500px] flex items-center justify-center">
+    <div className="bg-gray-100 p-[20px] w-[100%] h-[500px] flex items-center justify-center">
       <div className="w-[70%]">
         <div className="flex-col justify-between">
           <h3 className="text-center text-[14px] font-bold text-gray-400 mt-5">

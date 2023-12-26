@@ -11,7 +11,7 @@ import {
 
 const Landing = () => {
   return (
-    <div>
+    <>
       <BannerSection />
       <StorySection />
       <Fresh />
@@ -19,7 +19,7 @@ const Landing = () => {
       <Testimonial />
       <NewsandEvents />
       <Contactus />
-    </div>
+    </>
   );
 };
 
